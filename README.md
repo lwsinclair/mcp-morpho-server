@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/crazyrabbitltc-mcp-morpho-server-badge.png)](https://mseep.ai/app/crazyrabbitltc-mcp-morpho-server)
+
 # Morpho API MCP Server
 
 A Model Context Protocol (MCP) server that provides tools for querying the Morpho API. This server enables Claude to interact with Morpho's GraphQL API, providing access to market data, vaults, positions, and more.
